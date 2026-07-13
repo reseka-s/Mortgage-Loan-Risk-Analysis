@@ -85,13 +85,13 @@ Approximately 49,990 borrower records containing:
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f28889f2-e773-4203-90c7-3a5efb2d78ba" />
+![Executive Overview](Images/executive-overview.png)
 
 ### Risk & Customer Insights
-<img width="1339" height="818" alt="risk-customer-insights" src="https://github.com/user-attachments/assets/4410dee4-c41b-4678-9330-937533c25db7" />
+![Risk & Customer Insights](Images/risk-customer-insights.png)
 
 ### Customer Profile
-<img width="1333" height="833" alt="customer-profile" src="https://github.com/user-attachments/assets/1ec9f32c-a8b4-4e1d-9a68-942ba9159eab" />
+![Customer Profile](Images/customer-profile.png)
 
 ## Key Insights
 
