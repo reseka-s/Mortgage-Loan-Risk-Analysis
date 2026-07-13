@@ -102,5 +102,5 @@ Approximately 49,990 borrower records containing:
 - Borrower occupation and demographics significantly influence lending patterns.
 
 ## Author
-Reseka
+**Reseka**
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
